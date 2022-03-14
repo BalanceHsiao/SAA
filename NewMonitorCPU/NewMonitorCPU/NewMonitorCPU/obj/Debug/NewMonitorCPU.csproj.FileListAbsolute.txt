@@ -1,0 +1,10 @@
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\bin\Debug\NewMonitorCPU.exe.config
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\bin\Debug\NewMonitorCPU.exe
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\bin\Debug\NewMonitorCPU.pdb
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\obj\Debug\NewMonitorCPU.Properties.Resources.resources
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\obj\Debug\NewMonitorCPU.csproj.GenerateResource.cache
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\obj\Debug\NewMonitorCPU.csproj.CoreCompileInputs.cache
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\obj\Debug\NewMonitorCPU.exe
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\obj\Debug\NewMonitorCPU.pdb
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\obj\Debug\NewMonitorCPU.Main_Form.resources
+C:\尚智\原始程式碼\NewMonitorCPU\NewMonitorCPU\NewMonitorCPU\obj\Debug\NewMonitorCPU.History_Form.resources
